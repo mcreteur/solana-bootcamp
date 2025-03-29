@@ -1,0 +1,6 @@
+test-ledger/
+voting-dapp/
+
+# misc
+.DS_Store
+*.pem
