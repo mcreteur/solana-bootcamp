@@ -4,3 +4,13 @@ voting-dapp/
 # misc
 .DS_Store
 *.pem
+
+**/node_modules/
+
+**/dist/
+**/build/
+**/coverage/
+**/logs/
+**/temp/
+**/tmp/
+**/cache/
